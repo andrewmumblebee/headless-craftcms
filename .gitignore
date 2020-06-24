@@ -5,3 +5,4 @@
 !/web/cpresources/.gitkeep
 /config/license.key*
 .DS_Store
+craft3.env.sh
