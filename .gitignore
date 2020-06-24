@@ -3,5 +3,5 @@
 /vendor
 /web/cpresources
 !/web/cpresources/.gitkeep
-/config/license.key
+/config/license.key*
 .DS_Store
